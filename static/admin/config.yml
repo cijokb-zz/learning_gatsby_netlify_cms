@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  # name: git-gateway
+  name: github
+  repo: cijokb/learning_gatsby_netlify_cms
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
